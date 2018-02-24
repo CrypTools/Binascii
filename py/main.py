@@ -34,6 +34,7 @@ def decrypt(message):
     
   return output # Returns decrypted message
 
+# Main section
 
 if __name__ == "__main__":
   cond = input("Encrypt (e) / decrypt (d): ") # Set cond to "e" or "d"
