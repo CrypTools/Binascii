@@ -32,9 +32,9 @@ def decrypt(message):
 
 
 if __name__ == "__main__":
-	cond = input("Encrypt (e) / decrypt (d): ") # Set cond to "e" or "d"
-	message = input("Give the message: ") # Stores input as string in message
-	if cond == "e": # If cond is "e", then use encrypt function
-		print(encrypt(message)) # Print encrypted message
-	else: # Else, use decrypt function
-		print(decrypt(message)) # Print decrypted message
+  cond = input("Encrypt (e) / decrypt (d): ") # Set cond to "e" or "d"
+  message = input("Give the message: ") # Stores input as string in message
+  if cond == "e": # If cond is "e", then use encrypt function
+    print(encrypt(message)) # Print encrypted message
+  else: # Else, use decrypt function
+    print(decrypt(message)) # Print decrypted message
