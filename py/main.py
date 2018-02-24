@@ -1,12 +1,12 @@
 """ 
 Convert ASCII to Binary and vice-versa 
-Encrypting is ASCII to Binary.
-Decrypting is Binary to ASCII.
+Encrypting is ASCII to Binary
+Decrypting is Binary to ASCII
 """
 
 def encrypt(message):
   """ 
-  Takes a string as input and returns binary ASCII of each character. 
+  Takes a string as input and returns binary ASCII of each character
   Use:
     encrypt("message")
     => '0b1101101 0b1100101 0b1110011 0b1110011 0b1100001 0b1100111 0b1100101 '
@@ -19,7 +19,7 @@ def encrypt(message):
 
 def decrypt(message):
   """ 
-  Takes a string of 8 digits binary numbers as input and returns ASCII of each number.
+  Takes a string of 8 digits binary numbers as input and returns ASCII of each number
   Use:
     decrypt("0b1101101 0b1100101 0b1110011 0b1110011 0b1100001 0b1100111 0b1100101 ")
     => 'message'
