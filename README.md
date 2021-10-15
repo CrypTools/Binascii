@@ -23,3 +23,5 @@ In 1605 Francis Bacon discussed a system whereby letters of the alphabet could b
 George Boole published a paper in 1847 called 'The Mathematical Analysis of Logic' that describes an algebraic system of logic, now known as Boolean algebra. Boole's system was based on binary, a yes-no, on-off approach that consisted of the three most basic operations: `AND`, `OR`, and `NOT`. This system was not put into use until a graduate student from Massachusetts Institute of Technology, Claude Shannon, noticed that the Boolean algebra he learned was similar to an electric circuit. Shannon wrote his thesis in 1937, which implemented his findings. Shannon's thesis became a starting point for the use of the binary code in practical applications such as computers, electric circuits, and more.
 
 Self-taught mathematician George Boole (1815–1864) published a pamphlet in 1847 – The Mathematical Analysis of Logic – that launched him into history as one of the nineteenth century's most original thinkers.
+
+Made with love by CrypTools.
