@@ -27,3 +27,7 @@ George Boole published a paper in 1847 called 'The Mathematical Analysis of Logi
 Self-taught mathematician George Boole (1815–1864) published a pamphlet in 1847 – The Mathematical Analysis of Logic – that launched him into history as one of the nineteenth century's most original thinkers.
 
 Made with love by CrypTools.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
